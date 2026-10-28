@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="es">
 
@@ -12,7 +11,7 @@
         crossorigin="anonymous">
 </head>
 <body>
-    <section class="vh-100" style="background-color: #9A616D;">
+    <section class="vh-100" style="background-color: #D84661;">
     <div class="container py-5 h-100">
         <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col col-xl-10">
@@ -28,7 +27,7 @@
                     <form>
 
                     <div class="d-flex align-items-center mb-3 pb-1">
-                        <i class="fas fa-cubes fa-2x me-3" style="color: #ff6219;"></i>
+                        <i class="fas fa-cubes fa-2x me-3" style="color: #D87446;"></i>
                         <span class="h1 fw-bold mb-0">Logo</span>
                     </div>
 
@@ -49,8 +48,8 @@
                     </div>
 
                     <!-- <a class="small text-muted" href="#!">Forgot password?</a> -->
-                    <p class="mb-5 pb-lg-2" style="color: #393f81;">¿No tienes cuenta? <a href="register.php#!"
-                        style="color: #393f81;">Regístrate aquí</a></p>
+                    <p class="mb-5 pb-lg-2" style="color: #D8BD46;">¿No tienes cuenta? <a href="register.php#!"
+                        style="color: #D8BD46;">Regístrate aquí</a></p>
                     <!-- <a href="#!" class="small text-muted">Terms of use.</a>
                     <a href="#!" class="small text-muted">Privacy policy</a> -->
                     </form>
