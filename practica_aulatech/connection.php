@@ -1,9 +1,5 @@
 <?php
-    $host = 'primero-db-1';
-    $dbname = 'aulatech'; //Nombre de la base de datos
-    $user = 'root'; //Nombre del usuario
-    $pass = 'root'; //Password del usuario
-    $port = 3306;
+    require_once __DIR__ . '/config.php'
 
     // Crear una instancia de PDO para la conexión con SSL habilitado
     $dsn = "mysql:host=$host;port=$port;dbname=$dbname;charset=utf8mb4";

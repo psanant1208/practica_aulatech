@@ -1,9 +1,6 @@
 <?php
-return [
-    'db' => [
-        'host' => 'primero-db-1', //Nombre del contenedor del gestor de BD
-        'dbname' => 'aulatech', //Nombre de la base de datos
-        'user' => 'root', // Usuario
-        'pass' => 'root' // contraseña
-    ]
-];
+    $host = 'primero-db-1';
+    $dbname = 'aulatech'; //Nombre de la base de datos
+    $user = 'root'; //Nombre del usuario
+    $pass = 'root'; //Password del usuario
+    $port = 3306;
